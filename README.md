@@ -12,7 +12,7 @@ The software code uses standard sensors libraries and code widely available on t
 Other than the sensors-specific libraries, the main preprequisites are:
 - Python 2.7
 - OpenCV 4.2
-- MPI4PI 3.0.3
+- MPI4Py 3.0.3
 
 
 
